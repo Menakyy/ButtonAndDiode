@@ -1,0 +1,4 @@
+CBlueLed.cpp:14:1:CBlueLed::~CBlueLed()	0	static
+CBlueLed.cpp:14:1:virtual CBlueLed::~CBlueLed()	8	static
+CBlueLed.cpp:10:1:CBlueLed::CBlueLed()	0	static
+CBlueLed.cpp:19:6:void CBlueLed::setState()	0	static
